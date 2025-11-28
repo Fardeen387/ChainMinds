@@ -19,3 +19,6 @@ To create a global, censorship-resistant network where minds can connect, share 
 - Expand to cross-chain compatibility for broader accessibility.
 - Develop a frontend dApp for user-friendly interaction.
 - Incorporate AI-driven idea recommendation based on voting patterns.
+
+- contract address: 0x74e9cBBa7a2a1598Cca07a4422e1E07FE7DB153E
+<img width="1456" height="373" alt="image" src="https://github.com/user-attachments/assets/af2bd2a3-dd21-4ca5-973a-09f86e5f816a" />
